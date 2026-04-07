@@ -4,39 +4,41 @@
 
 
 The Base is a Minesweeper game.
-Finding Bombs by flagging them gives the player either ingame money or damages the boss depending if you're in a adventure level or a boss battle.
-Difficult bosses test your skill, but luckily the money you found has a purpose.
+You will follow your own path on a level-tree, consisting mostly of "adventure levels". These will play out very similar to minesweeper.
+In addition to those levels, you´ll also encounter bossfights. Difficult bosses test your skill, but you can prepare using money you get during adventure levels
 
-The found money can be exchanged for interesting Upgrades and Items in one of many shops you'll encouter on your journey.
-These Upgrades and Items help you best bosses and advance further into interesting territories.
+One the level-tree, you´ll be able to choose your own path. It might lead you to shops, where you can spend your money for interesting Upgrades and Items.
+These will not only help you beat bosses and advance further into interesting territories, but will become a necessity in the late-game.
 
-Split pathways ensure for a different playing experience every playthrough. 
+Split pathways, random events, a whole bunch of possible item combinations and multiple difficulty options ensure for a unique experience every playthrough. 
 
 
 
 ## Adventure Levels:
-  + Adventure Levels are your everyday levels without any special dangers. 
-  + They are your opportunity to find money.
-  + Accidentally uncovering a bomb will lose you all the money you could've gained from the level.
-  + At first you will only be able to place a very small amount of flags. Your money output will be miniscule.
-  + For a chance to buy the good upgrades you'll first have to upgrade the amount of flags you can place.
-  + But beware! When the grid gets bigger and the amount of flags rises, you could get into some time pressure.
+  + Adventure Levels are your everyday levels without any unexpected dangers (apart from blowing up, of course). 
+  + They are your opportunity to find money, by using all your flags to mark the hidden bombs.
+  + Your income will be calculated based of the amount of flags and the time you took to place them.
+  + But be careful! Accidentally uncovering a bomb will lose you all the money you could've gained from the level and could even end your run, if your healt is too low.
+  + At first you will only be able to place a very small amount of flags. Your earnings will be miniscule.
+  + For a chance to buy the REALLY good, game-winning upgrades, you'll first need to choose the right ones in the early-game.
+  + When you reach the later stages, the grid gets bigger and there are more bombs overall.
+  + So if you want to keep earning good money, you´ll have less and less time to think and play.
 
-***Use the opportunity, find money and upgrade your character, without good upgrades beating bosses to come is surely going to be a challenge!***
+***Use the opportunity, find money and upgrade your character, because without good upgrades, beating the bosses to come is surely going to be a challenge!***
 
 
 
 ## Boss-Battles:
-  + Every now and then you'll run into some bosses on your journey.
-  + Bosses act like a test of skill. Be careful, they could end your run!
-  + You'll only have e.g. 5 Clicks/Flags but they replenish every 8 seconds.
-  + Accidentally uncovering a bomb will leave you stunned for an attack intervall. The boss can attack you freely.
-  + Depending on the boss, you'll get attacked every few seconds.
-  + The flagged bombs will damage the boss according to your damage output (can get higher with items).
+  + At the end of every stage (and maybe through certian random events, who knows...) you´ll encounter a boss.
+  + Bosses act as a test of skill and how well you have prepared. Be careful, ´cause they would love to end your run!
+  + Bossfights work quite different from the standart gameplay, putting a lot more pressure onto you.
+  + Both the boss and you will deal damage in damage cycles, which will differ in lenght depending on the boss.
+  + You'll start with a limited amount of flags, but they replenish every damage cycle.
+  + Accidentally uncovering a bomb will leave you stunned for one cycle. The boss can attack you freely.
+  + On every damage cycle, correctly flagged bombs will damage the boss.
+  + Some bosses might have special attacks or hide surprises on the board.
 
 ***Can you beat the boss before your health runs out?***
 
-(The number of Clicks and the timings they recover and the intervalls of the boss attacks are purely speculative. The optimal timings for an interesting flow of play will need to be tested when the game is in a playable version.)
 
-
-More infos about the project are found in index.html.
+More infos about the project are found in index.html or just click the link on the right (once a version is playable, you´ll find a download there too).

@@ -41,4 +41,4 @@ Split pathways, random events, a whole bunch of possible item combinations and m
 ***Can you beat the boss before your health runs out?***
 
 
-More infos about the project are found in index.html or just click the link on the right (once a version is playable, you´ll find a download there too).
+More infos about the project are found in index.html or just click the link in the "About" section (once a version is playable, you´ll find a download there too).

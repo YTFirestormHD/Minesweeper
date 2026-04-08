@@ -5,10 +5,10 @@
 
 The Base is a Minesweeper game.
 You will follow your own path on a level-tree, consisting mostly of "adventure levels". These will play out very similar to minesweeper.
-In addition to those levels, you´ll also encounter bossfights. Difficult bosses test your skill, but you can prepare using money you get during adventure levels
+In addition to those levels, you´ll also encounter bossfights. Difficult bosses test your skill, but you can prepare using money you get playing adventure levels
 
-One the level-tree, you´ll be able to choose your own path. It might lead you to shops, where you can spend your money for interesting Upgrades and Items.
-These will not only help you beat bosses and advance further into interesting territories, but will become a necessity in the late-game.
+On the level-tree, you´ll be able to choose your own path. It might lead you to shops, where you can spend your money for interesting Upgrades and Items.
+These will help you beat bosses to advance further into interesting territories.
 
 Split pathways, random events, a whole bunch of possible item combinations and multiple difficulty options ensure for a unique experience every playthrough. 
 
@@ -30,7 +30,7 @@ Split pathways, random events, a whole bunch of possible item combinations and m
 
 ## Boss-Battles:
   + At the end of every stage (and maybe through certian random events, who knows...) you´ll encounter a boss.
-  + Bosses act as a test of skill and how well you have prepared. Be careful, ´cause they would love to end your run!
+  + Bosses act as a test of skill and how well you have prepared. Be careful, they could end your run!
   + Bossfights work quite different from the standart gameplay, putting a lot more pressure onto you.
   + Both the boss and you will deal damage in damage cycles, which will differ in lenght depending on the boss.
   + You'll start with a limited amount of flags, but they replenish every damage cycle.

@@ -10,15 +10,15 @@ In addition to those levels, you´ll also encounter bossfights. Difficult bosses
 On the level-tree, you´ll be able to choose your own path. It might lead you to shops, where you can spend your money for interesting Upgrades and Items.
 These will help you beat bosses to advance further into interesting territories.
 
-Split pathways, random events, a whole bunch of possible item combinations and multiple difficulty options ensure for a unique experience every playthrough. 
+Split pathways, random events, a whole bunch of possible item combinations and multiple difficulty options ensure for a unique and interesting experience every playthrough. 
 
 
 
 ## Adventure Levels:
-  + Adventure Levels are your everyday levels without any unexpected dangers (apart from blowing up, of course). 
-  + They are your opportunity to find money, by using all your flags to mark the hidden bombs.
+  + Adventure Levels are your everyday levels without any unexpected dangers (apart from blowing up...). 
+  + They are your opportunity to find money, by using as many flags as you can to mark the hidden bombs.
   + Your income will be calculated based of the amount of flags and the time you took to place them.
-  + But be careful! Accidentally uncovering a bomb will lose you all the money you could've gained from the level and could even end your run, if your healt is too low.
+  + But be careful! Accidentally uncovering a bomb will lose you all the money you could've gained from the level and could even end your run, if your health is too low.
   + At first you will only be able to place a very small amount of flags. Your earnings will be miniscule.
   + For a chance to buy the REALLY good, game-winning upgrades, you'll first need to choose the right ones in the early-game.
   + When you reach the later stages, the grid gets bigger and there are more bombs overall.

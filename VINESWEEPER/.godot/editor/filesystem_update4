@@ -1,6 +1,1 @@
 res://game_board.tscn
-res://GLOBAL.gd
-res://tile_map_layer.gd
-res://game_board.gd
-res://main_menu.gd
-res://Main_Menu.tscn
